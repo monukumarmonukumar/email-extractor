@@ -23,4 +23,4 @@ email-extractor/
 ## How to Run
 1. Clone this repository
 ```bash
-git clone https://github.com/TeraUsername/email-extractor.git
+git clone https://github.com/monukumarmonukumar/email-extractor
